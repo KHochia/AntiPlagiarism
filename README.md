@@ -2,12 +2,13 @@
 An application for checking plagiarisms of codes
 
 ## Algorithm for checking
+**Winnowing**
 See details in https://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf
 
 ## Framework
 **SpringBoot**
 
-## Network interface & testing clients
+## Network interfaces & testing clients
 ### designed by
 **Netty**
 
