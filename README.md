@@ -16,13 +16,13 @@ See details in https://theory.stanford.edu/~aiken/publications/papers/sigmod03.p
 Socket: 127.0.0.1:8080
 
 ### TCP interface
-Port:443
-
-### UDP interface
 Port:8081
 
+### UDP interface
+Port:8082
+
 ### HTTP interface
-Port:80
+Port:8083
 
 ### WebService interface
-Port:8082
+Port:8084
